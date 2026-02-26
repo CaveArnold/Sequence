@@ -14,4 +14,4 @@ Passcode: V=nF1u9V
 
 ## Latest Updates
 
-[Retirement Cash Flow Map - February 2026](Sequence-02-2026.png)
+![Retirement Cash Flow Map - February 2026](Sequence-02-2026.png)
