@@ -11,3 +11,7 @@ Passcode: V=nF1u9V
 ## New Features
 
 **December 2025** - I began leveraging the Sequence RESTful endpoint that enables account balances to be accessed in real time. I am using this ingested balance data to drive my automated Guyton-Klinger withdrawal decision system.
+
+## Latest Updates
+
+[Retirement Cash Flow Map - February 2026](Sequence-02-2026.png)
