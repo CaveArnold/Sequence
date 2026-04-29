@@ -1,5 +1,5 @@
 # [Sequence](https://www.getsequence.io/)
-I began using Sequence in April 2024. My goal was to automate my retirement cash flows as fully as possible within Sequence. In February 2025 I am happy to say that all my automation procedures were fully realized so that I have not needed to perform any transfers.
+I began using Sequence in April 2024. My goal was to automate my retirement cash flows as fully as possible within Sequence. In February 2025 I am happy to say that all my automation procedures were fully realized so that I have not needed to perform any manual transfers.
 
 ## Sequence Review
 On February 18, 2025 I did a presentation of my Retirement Cash Flow Automation and a review of Sequence capabilities since joining in April 2024. The Power Point presentation is **2025 - My Retirement Cash Flow - Sequence.pptx**.
