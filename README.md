@@ -14,4 +14,10 @@ Passcode: V=nF1u9V
 
 ## Latest Updates
 
+**February 2026** - Changed the layout after a major UI/X update by Sequence and closing RSU account and Morgan Stanley where RSU dividends were posted.
+
 ![Retirement Cash Flow Map - February 2026](Sequence-02-2026.png)
+
+**March 2026** - Changed the layout after closing Voya accounts and rolling over residual 401(k) to Wealthfront IRA.
+
+![Retirement Cash Flow Map - May 2026](Sequence%202026-05-01%20191856.png)
